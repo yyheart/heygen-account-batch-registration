@@ -13,5 +13,6 @@ chatgpt4.0 plus only costs $15 per month，Send you your account number and pass
 -----------------------------------------------------------------------------------------------
 heygen账户批量注册
 每小时能注册高达100个11-12积分账户
+只为测试学习，请勿违法犯罪
 联系邮箱zhuanyongkr@qq.com
 chatgpt4.0 plus 每月只需要100人民币。支持语音对话 等
