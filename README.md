@@ -1,11 +1,8 @@
-# heygen-account-batch-registration
+# heygen-account-batch-registration heygen账户批量注册
 heygen account batch registration
 Up to 100 11-12 point accounts can be registered per hour
 The whole process is automatic, you only need to know a little python knowledge
 The software does not affect your use of the computer and does not interfere with the entire process.
-
-
-![Snipaste_2023-11-12_21-46-08](https://github.com/yyheart/heygen-account-batch-registration/assets/56282725/5e36b121-a71d-42a6-ae6e-5235b950b425)
 
 If you need software, please contact me zhuanyongkr@qq.com
 
